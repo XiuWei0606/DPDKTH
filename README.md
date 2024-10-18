@@ -1,5 +1,5 @@
 # DPDKTH
- Simulate therma-hydraulic problems using DPDK+EDFM
+ Simulate thermal-hydraulic problems using DPDK+EDFM
  
  This simulation case DPDK_Couple_EDFM.m uses DPDK coupled with EDFM to simulate fractured reservoir.
  DPDK is used to represent tight matrix rock (m) and natural fractures (f), EDFM represents large-scale fractures.
